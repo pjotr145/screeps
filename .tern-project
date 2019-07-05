@@ -1,0 +1,26 @@
+{
+  "ecmaVersion": 6,
+  "plugins": {
+    "guess-types": {
+      
+    },
+    "outline": {
+      
+    },
+    "es_modules": {
+      
+    },
+    "highlight": {
+      
+    },
+    "node": {
+      
+    },
+    "grunt": {
+      
+    }
+  },
+  "libs": [
+    
+  ]
+}
